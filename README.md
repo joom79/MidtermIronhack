@@ -6,15 +6,18 @@ Mid Term Project
 Members of the group: Julia Marques; Rachad Raad
 
 
-Goal of the project: 
+Goal: 
 
 
-BI project
+It is a BI project based on the Olist dataset. 
 
+Olist is a Brazilian department store platform which operates in the e-commerce segment. 
 
-Brief description of the dataset (Source, Number of rows, number of features)
+The goal of the project is to explore and analyse the performance of the platform in different aspects in Brazil.
 
+Our dataset comes from Olist, E-Commerce public dataset.
 
+We are using a method to visualize, measure, and understand the data, by analysing several elements, such as sales, custumers, sellers, geolocation, reviews, deliery status, etc. 
 
 
   🗓️ Day 0 
@@ -22,29 +25,24 @@ Brief description of the dataset (Source, Number of rows, number of features)
   - Trello
 
 
-		🗓️ Day 1 
-		- EDA
-		- GitHub read me
+	🗓️ Day 1 
+	- GitHub read me
+	- Sql, Table
 
 
-				🗓️ Day 2 
-				- Clean the data
-				- Remove typos of
-				- Correct datatypes
+		🗓️ Day 2 	
+		- Data Analysis
 
 
-						🗓️ Day 3
-						- Transform the data
-						- Scale Numerical Features
-						- Encode Categorical Features
+			🗓️ Day 3
+			- Data Analysis
 
 
-								🗓️ Day 4 
-								- Modelling
-								- Split data
+				🗓️ Day 4 
+				- Documentation
 
 
-										🗓️ Day 5	
-										- Presentation
+					🗓️ Day 5	
+					- Presentation
 
 
