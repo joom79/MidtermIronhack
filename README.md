@@ -17,7 +17,7 @@ The goal of the project is to explore and analyse the performance of the platfor
 
 Our dataset comes from Olist, E-Commerce public dataset.
 
-We are using a method to visualize, measure, and understand the data, by analysing several elements, such as sales, custumers, sellers, geolocation, reviews, deliery status, etc. 
+We are going to visualize, measure, and understand the data, by analysing several elements, such as sales, custumers, sellers, geolocation, reviews, deliery status, etc. 
 
 
   🗓️ Day 0 
